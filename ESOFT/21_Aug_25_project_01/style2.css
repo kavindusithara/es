@@ -1,0 +1,36 @@
+
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(255, 248, 230);
+
+}
+
+.html{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    text-shadow: 2.5px 2px  rgb(253, 47, 47);
+    
+}
+
+
+.p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.h{
+    font-size: 32px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+.smallcaps{
+    font-variant: small-caps;
+}
+
+
